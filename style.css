@@ -1,0 +1,24 @@
+
+table {
+	width: 100%;
+	margin-bottom: 20px;
+	border: 1px solid #dddddd;
+	border-collapse: collapse; 
+}
+
+
+table td {
+	width: 94px;
+    height: 94px;
+    border: 1px solid #dddddd;
+	padding: 5px;
+}
+
+.red {
+	background-color: salmon;
+}
+
+.green {
+	background-color: mediumseagreen;
+}
+
